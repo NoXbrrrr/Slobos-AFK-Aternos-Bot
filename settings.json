@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "_NOXBR_-85YX.aternos.me",
+    "ip": "_NOXBR_-85YX.aternos.me:30815",
     "port": 30815,
     "version": "",
     "try-creative": false
